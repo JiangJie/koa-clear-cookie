@@ -1,0 +1,24 @@
+{
+  "name": "koa-clear-cookie",
+  "version": "0.0.1",
+  "description": "Add `this.cookies.clear('name')` for KOA app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JiangJie/koa-clear-cookie.git"
+  },
+  "keywords": [
+    "koa",
+    "cookies",
+    "clear"
+  ],
+  "author": "Jarvis Jiang <jiang115jie@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JiangJie/koa-clear-cookie/issues"
+  },
+  "homepage": "https://github.com/JiangJie/koa-clear-cookie"
+}
