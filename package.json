@@ -1,6 +1,6 @@
 {
   "name": "koa-clear-cookie",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Add `this.cookies.clear('name')` for KOA app.",
   "main": "index.js",
   "scripts": {
